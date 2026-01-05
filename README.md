@@ -1,2 +1,47 @@
 # Sky-Rail-Info-BBN
 Railway &amp; Weather Info (Barbil)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SKY N RAIL INFO BBN - Barbil Weather & Train Updates</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: linear-gradient(135deg, #87CEEB, #98D8C8); color: #333; text-align: center; }
+        header { background: #1e3a8a; color: white; padding: 20px; }
+        .logo-desc { font-size: 1.2em; margin: 10px 0; } 
+        main { max-width: 800px; margin: 20px auto; padding: 20px; background: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .contact { background: #f0f8ff; padding: 15px; margin: 20px 0; border-radius: 5px; }
+        .updates { list-style: none; padding: 0; }
+        .updates li { background: #e0f7fa; margin: 10px 0; padding: 10px; border-radius: 5px; }
+        footer { margin-top: 30px; padding: 10px; font-size: 0.9em; color: #666; }
+        @media (max-width: 600px) { main { margin: 10px; padding: 15px; } }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌤️⚡☀️🚂 SKY N RAIL INFO BBN</h1>
+        <p class="logo-desc">Real-time Weather & Train Tracking for Barbil Residents</p>
+    </header>
+    <main>
+        <section>
+            <h2>Latest Updates</h2>
+            <ul class="updates">
+                <li>🌤️ Current Weather: Sunny with clouds (Update your live data here)</li>
+                <li>🚂 Train 12820: On time to Barbil Station</li>
+                <li>⚠️ Alert: Possible rain tonight - Stay tuned!</li>
+            </ul>
+            <p>Add live weather API or manual updates easily.</p>
+        </section>
+        <section class="contact">
+            <h3>Get Instant Help</h3>
+            <p>📱 Chat Assist: <strong>6372078574</strong></p>
+            <p>📧 Email: <strong>sky_railinfobbn@aol.com</strong></p>
+            <p>🐦 Twitter/X: <strong>@sky_railinfobbn</strong></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 SKY N RAIL INFO BBN | Serving Barbil Community</p>
+    </footer>
+</body>
+</html>
